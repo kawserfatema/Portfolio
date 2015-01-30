@@ -9,7 +9,7 @@
     Here is a detailed list of the web projects I worked on alone or as a
     team member for different companies and persons.
 </p>
-<hr />
+<hr style="border:1px solid gray;" />
     <div class="row">
         <div class="large-3 columns">
             <div style="border:2px solid #0083CA;">
@@ -22,6 +22,6 @@
            People who love new cars, they can visit this site to choose their new car.
         </div> 
     </div>
-<hr />
+<hr style="border:1px solid gray;" />
 </asp:Content>
 

@@ -23,6 +23,9 @@
                     break;
                 case 'Projects.aspx':
                     $("#projects").addClass('current');
+                    break
+                case 'Github.aspx':
+                    $("#github").addClass('current');
                     break;
                 default:
                     $("#default").addClass('current');
@@ -47,7 +50,7 @@
                 <li id="about"><a href="About.aspx">About Me</a></li>
                 <li id="projects"><a href="Projects.aspx">Projects</a></li>
                 <li><a href="#">Services</a></li>
-                <li><a href="#">GitHub</a></li>
+                <li id="github"><a href="Github.aspx">GitHub</a></li>
                 <li id="contact"><a href="Contact.aspx">Contact Me</a></li>
               </ul>
           </div>
