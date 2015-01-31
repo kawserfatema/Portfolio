@@ -24,6 +24,9 @@
                 case 'Projects.aspx':
                     $("#projects").addClass('current');
                     break
+                case 'Services.aspx':
+                    $("#services").addClass('current');
+                    break
                 case 'Github.aspx':
                     $("#github").addClass('current');
                     break;
@@ -49,7 +52,7 @@
                 <li id="default"><a href="Default.aspx">Home</a></li>
                 <li id="about"><a href="About.aspx">About Me</a></li>
                 <li id="projects"><a href="Projects.aspx">Projects</a></li>
-                <li><a href="#">Services</a></li>
+                <li id="services"><a href="Services.aspx">Services</a></li>
                 <li id="github"><a href="Github.aspx">GitHub</a></li>
                 <li id="contact"><a href="Contact.aspx">Contact Me</a></li>
               </ul>
@@ -72,7 +75,7 @@
                             <a href="Myworks/Cars/template/home.html" target="_blank"><img src="Images/fwork1.png" alt="image featured work 3" /></a>
                         </div>
                     </div>
-                    <div class="large-5 columns" style="border:margin-top:20px;">
+                    <div class="large-5 columns" style="margin-top:20px;">
                         <fieldset style="border:2px solid #0083CA;margin:0px;">
                             <legend>Keep Connected</legend>
                             <ul class="inline-list left">
@@ -95,7 +98,7 @@
       <footer class="row">
         <div class="large-12 columns text-center columns">
             <hr style="border:1px solid black;" />
-            <p>© Copyright Kawser Fatema 2015</p>
+            <p>© Copyright Kawser Fatema 2015 | <a href="Termsofuse.aspx">Terms of use</a> | <a href="Privacy.aspx">Privacy policy</a></p>
         </div> 
       </footer>
 

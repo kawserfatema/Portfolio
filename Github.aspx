@@ -4,6 +4,10 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
 <p></p>
+<div>
+    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+    <asp:SiteMapPath ID="SiteMap1" runat="server"></asp:SiteMapPath>
+</div> 
 <h2>GitHub</h2>
 <p>
     GitHub is the best place to share code with friends, co-workers, classmates, and complete 

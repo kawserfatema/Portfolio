@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Success.aspx.cs" Inherits="Success" %>
+﻿<%@ Page Title="My Services" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Services.aspx.cs" Inherits="Services" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
 </asp:Content>
@@ -7,10 +7,7 @@
     <div>
         <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
         <asp:SiteMapPath ID="SiteMap1" runat="server"></asp:SiteMapPath>
-    </div> 
-    <h2>Your Enquiry</h2>
-    <p>
-        <asp:Label name="successlabel" id="successlabel" runat="server"  style="font-size:16px; font-weight:bold;"/>
-    </p>
+    </div>  
+    <h2>My Services</h2>
 </asp:Content>
 

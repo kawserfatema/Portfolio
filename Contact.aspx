@@ -5,6 +5,10 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
 
 <p></p>
+<div>
+    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+    <asp:SiteMapPath ID="SiteMap1" runat="server"></asp:SiteMapPath>
+</div> 
 <h2>Contact Me</h2>
 <div class="row">
     <div class="large-6 columns">

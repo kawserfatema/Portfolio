@@ -4,6 +4,10 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
 <p></p>
+<div>
+    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+    <asp:SiteMapPath ID="SiteMap1" runat="server"></asp:SiteMapPath>
+</div>  
 <h2>My Projects</h2>
 <p>
     Here is a detailed list of the web projects I worked on alone or as a

@@ -5,6 +5,10 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <p></p>
+    <div>
+        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        <asp:SiteMapPath ID="SiteMap1" runat="server"></asp:SiteMapPath>
+    </div>  
     <h2>About Me</h2>
     <img src="Images/fatema.jpg" alt="my picture" />
     <p></p>
