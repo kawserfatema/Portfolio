@@ -13,18 +13,22 @@
     <img src="Images/fatema.jpg" alt="my picture" />
     <p></p>
     <p>
-        I am an author, speaker… essentially a loud-mouthed pundit on the topic of software 
-        development. I’ve been working in the software industry since the mid-80’s where I got 
-        into the then-new world of object-oriented software. I spent much of the 90’s as a 
-        consultant and trainer helping people develop object-oriented systems, with a focus 
-        on enterprise applications.
+       I am a Software Engineering Technology student in Centennial college.This is a three 
+       years course, I am  Doing my last semester. During my program I've learn modern 
+       programming languages, design and algorithm concepts, data management tools, modern
+       software engineering methodologies. I also acquired solid knowledge of systems
+       integration, enterprise programming, mobile computing and software security specialization.
+
     </p>
     <p>
-        My main interest is to understand how to design software systems, so as to maximize 
-        the productivity of development teams. In doing this I’ve looked to understand the 
-        patterns of good software design, and also the processes that support software design. 
-        I’ve become a big fan of agile approaches and the resulting focus on evolutionary 
-        software design.
+        The program emphasized on object-oriented software design methodologies, user-oriented 
+        interface design, Software Testing and QA, C#, Java, Java EE, Oracle, MS-SQL Server, 
+        Unix/ Linux, Microsoft’s .NET, HTML5/JavaScript/XML,  mobile application development, 
+        Ajax and rich internet applications technologies, Cloud Computing, Data Mining, and more. 
+        To round out the technical focus of the curriculum, the Software Engineering Technology 
+        program included two software development projects. These real-world business applications 
+        where I utilized all the technical, systems and business skills acquired during my studies 
+        to build higher quality software.
     </p>
     
     <h3>My Resume</h3>
@@ -41,46 +45,45 @@
     <span>
         A hardworking, innovative and sincere IT professional seeking an analyst 
         position where my professional knowledge, skill and experience can be shared 
-        and enriched and can efficiently and effectively contribute towards the 
-        organization's growth effort. 
+        and enriched efficiently and effectively. 
     </span>
     <p></p>
     <h5>SUMMERY OF QUALIFICATIONS</h5>
     <ul>
         <li>
-            I have excellent understanding of software development life cycle, multi-tier 
-            web base application, relational database and ability to write documentation.
+            Objects oriented programming skills and have ability to write documentation.
         </li>
         <li>
-            Familiar with Visual studio, Java, Eclipse IDE, Android SDK 
+            In depth knowledge of different Systems Development Life-Cycle (SDLC)
         </li>
         <li>
-            Capable to develop advanced web applications using MS SQL Server, ASP.NET 
-            on C# platform that interact with database and display results in web forms 
+            Proficient in analyzing functional specifications and system requirements.
+        </li>
+         <li>
+            Experience in Visual studio, Java, Eclipse IDE, Android SDK.
+        </li>
+        <li>
+            Experience in developing advanced web applications using ASP.NET and C#. 
         </li>
         <li>
             Excellent knowledge on database design and development using Oracle 11g, 
             MS SQL Server, MS Access and MySQL 
         </li>
         <li>
-            In depth knowledge of different Systems Development Life-Cycle (SDLC) and 
-            its various aspects relating to QA such as testing principles, standards, 
-            methodologies, tools and techniques 
+            Experience in Quality Assurance and Testing including automation testing tools 
+            such as Quick Test Professional (QTP),HP Quality center(QC).
         </li>
         <li>
-            Experience in automation testing tools such as Quick Test Professional 
-            (QTP),HP Quality center(QC) etc 
+            Effective team player as well as can work independently.
         </li>
         <li>
-            Effective team player as well as work independently with excellent written 
-            and verbal communication skills  
+            Excellent written and verbal communication skills.  
         </li>
         <li>
-            Aptitude in problem solving and decision making skills, Very quick learner 
-            with attention to detail
+            Aptitude in problem solving and decision making skills with attention to detail.
         </li>
         <li>
-            Capable of completing projects in a given time frame
+            Capable of completing projects in a given time frame.
         </li>
     </ul>
     <p></p>

@@ -12,7 +12,15 @@
     <h2>Welcome To My Site</h2>
     <h4>Personal Tagline</h4>
     <p>
-        Web Developer and Designer, Communications professional, bemused blogger, social media ambassador, 
-        accidental musician, theater groupie, & amateur oenophile.
+        Objects oriented programming skills and have ability to write documentation.In depth knowledge of 
+        different Systems Development Life-Cycle (SDLC).Proficient in analyzing functional specifications 
+        and system requirements.Experience in Visual studio, Java, Eclipse IDE, Android SDK.Experience in
+        developing advanced web applications using ASP.NET and C#.Excellent knowledge on database design 
+        and development using Oracle 11g, MS SQL Server, MS Access and MySQL.Experience in Quality Assurance 
+        and Testing including automation testing tools such as Quick Test Professional (QTP),HP Quality 
+        center(QC).Effective team player as well as can work independently.Excellent written and verbal 
+        communication skills.Aptitude in problem solving and decision making skills with attention to detail.
+        Capable of completing projects in a given time frame.
+
     </p>
 </asp:Content>

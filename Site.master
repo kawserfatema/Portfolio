@@ -44,7 +44,7 @@
 
     <div class="row" style="margin-top:20px;">
         <div class="large-2 columns">
-          <a href="Default.aspx"><img src="Images/logo.png" /></a>
+          <a href="Default.aspx"><img src="Images/logo.PNG" /></a>
         </div>
         <div class="large-10 columns">
           <div>
